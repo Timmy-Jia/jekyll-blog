@@ -10,4 +10,4 @@ Prose+Github可以容易的建立一个免费的博客
 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
