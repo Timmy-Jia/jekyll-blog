@@ -10,4 +10,4 @@ published: true
 博主的邮箱：timothy_jia@163.com
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
