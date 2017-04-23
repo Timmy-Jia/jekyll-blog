@@ -6,6 +6,7 @@ published: true
 
 Prose+Github可以容易的建立一个免费的博客
 
+测试一个图片
 
 ![2.jpg]({{site.baseurl}}/_posts/2.jpg)
 
