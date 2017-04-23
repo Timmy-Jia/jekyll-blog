@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## 今天，我的技术博客开通啦~
