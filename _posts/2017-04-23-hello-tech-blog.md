@@ -1,5 +1,7 @@
 ---
 published: true
+title: 'Hello, Tech Blog!'
+layout: post
 ---
 
 ## 今天，我的技术博客开通啦~
@@ -8,6 +10,3 @@ published: true
 
 
 博主的邮箱：timothy_jia@163.com
-
-
-
